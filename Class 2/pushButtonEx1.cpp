@@ -22,3 +22,7 @@ void loop() {
     digitalWrite(ledPin2,  HIGH);
   }
 }   
+/**
+ * ! This code is for a push button that toggles the state of an LED
+ * Todo: Tinkercad Link : https://www.tinkercad.com/things/gnYCTjIA4o2-push-button-ex-01
+*/
