@@ -21,3 +21,6 @@ void loop()
   digitalWrite(led,LOW);
   delay(potvalue);
 }
+/** 
+ * !https://www.tinkercad.com/things/5qP4A9zwrrN-potentiometer
+*/
